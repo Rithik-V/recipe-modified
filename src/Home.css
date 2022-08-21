@@ -1,0 +1,36 @@
+.inputregion
+{
+    text-align: center;
+    align-items: center;
+}
+.btn
+{
+    margin-left: 1em;
+    background-color: rgb(89, 92, 169);
+    color: white;
+    border-radius: 4px;
+    height: 3em;
+    width: 5em;
+}
+.btn:hover
+{
+    margin-left: 1em;
+    background-color: white;
+    color: rgb(89, 92, 169);
+    border-radius: 4px;
+    height: 3em;
+    width: 5em;
+}
+.box
+{
+    border-radius: 4px;
+    height: 3em;
+    width: 20em;
+    padding: 0px 10px;
+}
+.drop
+{
+    margin-left: 1em;
+    width: 8em;
+    height: 2em;
+}
